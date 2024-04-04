@@ -1,0 +1,23 @@
+{
+  "name": "voting_app",
+  "version": "1.0.0",
+  "description": "The Lok Sabha 2024 Voting App is a sophisticated and user-friendly platform designed to facilitate the democratic process of voting in the Lok Sabha elections of 2024. Leveraging the power of Node.js, Express.js, and MongoDB, this application provides a seamless experience for voters to cast their ballots securely and efficiently.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtayade91/voting_app"
+  },
+  "keywords": [
+    "Loksabha_2024"
+  ],
+  "author": "Mangesh Tayade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtayade91/voting_app/issues"
+  },
+  "homepage": "https://github.com/mtayade91/voting_app#readme"
+}
